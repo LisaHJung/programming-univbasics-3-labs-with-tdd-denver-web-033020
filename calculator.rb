@@ -1,1 +1,1 @@
-first_number = integer
+first_number = 7
